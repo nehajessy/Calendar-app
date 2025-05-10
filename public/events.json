@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Early May Bank Holiday",
+    "date": "2025-05-05",
+    "time": "All Day",
+    "duration": "1d",
+    "important": true
+  },
+  {
+    "id": 2,
+    "title": "Product launch",
+    "date": "2025-05-12",
+    "time": "10:00",
+    "duration": "1h",
+    "important": true
+  },
+  {
+    "id": 3,
+    "title": "Team Standup",
+    "date": "2025-05-12",
+    "time": "10:30",
+    "duration": "30m"
+  },
+  {
+    "id": 4,
+    "title": "Client Call",
+    "date": "2025-05-12",
+    "time": "11:00",
+    "duration": "1h"
+  },
+  {
+    "id": 5,
+    "title": "Marketing meeting",
+    "date": "2025-05-15",
+    "time": "14:00",
+    "duration": "2h",
+    "important": true
+  },
+  {
+    "id": 6,
+    "title": "UX Review",
+    "date": "2025-05-19",
+    "time": "11:00",
+    "duration": "1h"
+  },
+  {
+    "id": 7,
+    "title": "Design Sprint",
+    "date": "2025-05-20",
+    "time": "10:00",
+    "duration": "6h"
+  },
+  {
+    "id": 8,
+    "title": "Google event",
+    "date": "2025-05-22",
+    "time": "09:00",
+    "duration": "1.5h",
+    "important": true
+  },
+  {
+    "id": 9,
+    "title": "Project Retrospective",
+    "date": "2025-05-22",
+    "time": "15:00",
+    "duration": "1.5h"
+  },
+  {
+    "id": 10,
+    "title": "Lunch with CEO",
+    "date": "2025-05-23",
+    "time": "12:00",
+    "duration": "2h"
+  },
+  {
+    "id": 11,
+    "title": "All Hands Meeting",
+    "date": "2025-05-28",
+    "time": "09:00",
+    "duration": "2h",
+    "important": true
+  },
+  {
+    "id": 12,
+    "title": "Spring Bank Holiday",
+    "date": "2025-05-26",
+    "time": "All Day",
+    "duration": "1d",
+    "important": true
+  }
+]
